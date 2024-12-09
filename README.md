@@ -327,11 +327,32 @@ Next right click on folder and open properties,Advanced and Disable/remove all i
 <img src="https://i.imgur.com/J4hzMxK.png" height="80%" width="80%" alt=" Steps"/>
 <img src="https://i.imgur.com/NBzgSDn.png" height="80%" width="80%" alt=" Steps"/>
 <img src="https://i.imgur.com/8kPyT70.png" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
+
+
+
+
+<p>
+ 
+</p>
+<br/>
+
+ 
+<h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+<br/>
+<p/>
+Now we will add permissions to allow all users access.
+<p>
+ Now once we change settings now OSticket extensions are now enabled.The ones that are not at this point are not needed at this time.
+</p>
+
+
+<img src="https://i.imgur.com/2vyi0JU.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/vSI86Ce.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/pZXeJGb.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/SznGEqw.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/BfZKELN.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/eEX5uG8.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/kkNUlaz.png" height="80%" width="80%" alt=" Steps"/>
 
 
 
@@ -341,6 +362,14 @@ Next right click on folder and open properties,Advanced and Disable/remove all i
 
 
 
+<p>
+ 
+</p>
+<br/>
+
+ 
+<h2>Installation Step 4 -How to Install </h2>
+<br/>
 
 
 
@@ -348,14 +377,6 @@ Next right click on folder and open properties,Advanced and Disable/remove all i
 
 
 
-
-
-
-
-
-
-
-<img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
