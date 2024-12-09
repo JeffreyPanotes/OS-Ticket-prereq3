@@ -225,13 +225,6 @@ Register new PHP.
 
 <p/>
 
-
-
-
-
-
-
-
 <img src="https://i.imgur.com/ua2tPGY.png" height="80%" width="80%" alt=" Steps"/>
 <img src="https://i.imgur.com/MBoyAgH.png" height="80%" width="80%" alt=" Steps"/>
 <img src="https://i.imgur.com/ZRmOwFH.png" height="80%" width="80%" alt=" Steps"/>
@@ -241,6 +234,86 @@ Register new PHP.
 
 
 
+<br/>
+
+ 
+<h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+<br/>
+<p/>
+ In the osticket files copy the upload folder.
+ <p/>  
+ Going back to the file for OS ticket ,go into INetpub,wwwroot and paste the upload folder there.
+ <p/>
+ Rename that folder to osticket.
+  <P/>
+ Now go back to the PHP manager in IIS.
+ <p/>
+ Start and stop the server.
+ <p/>
+ 
+ 
+ <img src="https://i.imgur.com/cvajJFt.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/rsH4mOe.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/fRqYUMt.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/ijEODsF.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/SNv5tfT.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/JbFASH8.png" height="80%" width="80%" alt=" Steps"/>
+
+
+
+
+
+<br/>
+
+ 
+<h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+<br/>
+<p/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+
+
+
+
+
+
+
+
+
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -260,3 +333,57 @@ Register new PHP.
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+
+
