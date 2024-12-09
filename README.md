@@ -368,8 +368,49 @@ Now we will add permissions to allow all users access.
 <br/>
 
  
-<h2>Installation Step 4 -How to Install </h2>
+<h2>Installation Step 4 -How to Install After Installation configuration of OS ticket </h2>
 <br/>
+<p>
+ Just as in any progam install there will still be some basic setup of USER names,paswords ,emails and some data base settings in order for OS ticket to work Correctly.
+ <p>
+ The needed info for the SQL data base will be found in the File for HeidiSQL so we will go back to the OSTICKET file folder 
+ </p>
+ OPen and install HEIDISQL .
+</p>
+<p>
+ OPen HeidiSQL and create new.
+ <p>
+  once new folder opens we will enter password of ROOT and open.
+ </p>
+ On the main page of SQL we will create a new data base.
+</p>
+New data base will be osticket.
+<p>
+ Once created we can naviagte back to MySQL Data base connection tab and complete form and install.
+</p>
+
+
+
+
+
+
+
+<img src="https://i.imgur.com/TXtUUhf.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/0eGl41J.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/tTdHZa6.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/2x9hxFm.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/AAvn85F.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/Unq8fjJ.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/YqmNwmz.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/ZzQGmk2.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/Sm2OBRW.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://imgur.com/a/bxMrVr1" height="80%" width="80%" alt=" Steps"/>
+
+
+
+
+
+
 
 
 
@@ -382,19 +423,6 @@ Now we will add permissions to allow all users access.
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
