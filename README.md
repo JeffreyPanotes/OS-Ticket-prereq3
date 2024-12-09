@@ -74,15 +74,10 @@ If all Allocations are correct you will have succesfully created a Virtual Machi
 <img src="https://i.imgur.com/d2bOUvT.png" height="80%" width="80%" alt=" Steps"/> 
 <img src="https://i.imgur.com/Dz7njNQ.png" height="80%" width="80%" alt=" Steps"/> 
 <img src="https://i.imgur.com/KIOXPBJ.png" height="80%" width="80%" alt=" Steps"/> 
- 
-
-
-
-
-
-
-
-
-
-
+ </p>
+<p>
+<p>
+<P>
+ <P>
+  
 <h2>Installation Step 2 -How to Install the OS Ticket requirements</h2>
