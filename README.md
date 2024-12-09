@@ -374,19 +374,26 @@ Now we will add permissions to allow all users access.
  Just as in any progam install there will still be some basic setup of USER names,paswords ,emails and some data base settings in order for OS ticket to work Correctly.
  <p>
  The needed info for the SQL data base will be found in the File for HeidiSQL so we will go back to the OSTICKET file folder 
+ <p/>
+  
  </p>
- OPen and install HEIDISQL .
+ Open and install HEIDISQL .
 </p>
 <p>
- OPen HeidiSQL and create new.
+ Open HeidiSQL and create new.
  <p>
   once new folder opens we will enter password of ROOT and open.
  </p>
  On the main page of SQL we will create a new data base.
 </p>
 New data base will be osticket.
+<p/>
+ 
 <p>
  Once created we can naviagte back to MySQL Data base connection tab and complete form and install.
+</p>
+<p>
+ If everything was setup correctly we will be able to navigate to the web site for OSticket.
 </p>
 
 
@@ -405,39 +412,39 @@ New data base will be osticket.
 <img src="https://i.imgur.com/ZzQGmk2.png" height="80%" width="80%" alt=" Steps"/>
 <img src="https://i.imgur.com/Sm2OBRW.png" height="80%" width="80%" alt=" Steps"/>
 <img src="https://imgur.com/a/bxMrVr1" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/6GEsLJO.png" height="80%" width="80%" alt=" Steps"/>
 
 
 
 
 
 
+<p>
+ 
+</p>
+<br/>
+
+ 
+<h2>Installation Step 4 -How to Install After Installation configuration of OS ticket </h2>
+<br/>
+<p>
+<p>
+ We will visit the OSticket site to make sure we have downloaded all files correctly.
+ <p>
+  
+ </p>
+</p>
+
+
+<img src="https://i.imgur.com/S0qy77z.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/k91fF6f.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/ihhozU8.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/9mQp1SK.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/JcmsVFC.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/pHGtY9z.png" height="80%" width="80%" alt=" Steps"/>
 
 
 
-
-
-
-
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-
-
-
-
-
-
-
-
-
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
 
 
 
