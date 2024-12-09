@@ -309,11 +309,24 @@ In the IIS manager navigate to the connections tab and select the Default web si
 <h2>Installation Step 3 -How to Install OS Ticket framework</h2>
 <br/>
 <p/>
+On your windows C drive navigate to inetpub>wwwroot>osticket>include.
+<p>
+ Navigate down to the file named ost-sampleconfig.php and change this to ost-config.php.
+</p>
+Next right click on folder and open properties,Advanced and Disable/remove all inheritance.
+<p>
+ 
+</p>
 
 
 
-
-<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/M24mZOp.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/WDc3Dev.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/Yr44cgc.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/kMNBNy2.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/J4hzMxK.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/NBzgSDn.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/8kPyT70.png" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
