@@ -184,13 +184,45 @@ Extract and install PHP Manger.
   <h2>Installation Step 3 -How to Install OS Ticket framework</h2>
  </p>
 
- Once these files are downloaded go into File Explorer and navigate to Windows -(c) and create a new folder and name it (PHP)
+ Once these files are downloaded go into File Explorer and navigate to Windows -(c) and create a new folder and name it (PHP).
 <p>
  Extract files from the zipped PHP file and move them to the newley created PHP folder in the C drive.
 </p>
-  Go back into the File folder for OS ticket and download Microsoft Visual C +
+  Go back into the File folder for OS ticket and download Microsoft Visual C +.
  </p>
- Once that is complete instal MYSQL.
+ Once that is complete install MYSQL.
+ <p>
+  
+ </p>
+<p/>
+
+<img src="https://i.imgur.com/AsgY2cc.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/agePjuE.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/GORT89U.png"80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/Ft7otPN.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/UQfApeT.png" height="80%" width="80%" alt=" Steps"/>
+<
+<p/>
+
+<br/>
+
+ 
+<h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+<br/>
+Once MYSQL is downloaded select standard configuration.
+<p/>
+ 
+Next create a password of ROOT.
+<p/>
+Open windows and run as Admin IIS manger.
+<p/>
+Once IIS manger open navigate to PHP manager.
+<p/>
+Register new PHP.
+<p/>
+ Once done start and stop services to reset PHP.
+<p/>
+
 <p/>
 
 
@@ -200,17 +232,31 @@ Extract and install PHP Manger.
 
 
 
-<img src="https://i.imgur.com/AsgY2cc.png" height="80%" width="80%" alt=" Steps"/>
-<img src="https://i.imgur.com/agePjuE.png" height="80%" width="80%" alt=" Steps"/>
-<img src="https://i.imgur.com/GORT89U.png"80%" width="80%" alt=" Steps"/>
-<img src="https://i.imgur.com/Ft7otPN.png" height="80%" width="80%" alt=" Steps"/>
-<img src="https://i.imgur.com/UQfApeT.png" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/ua2tPGY.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/MBoyAgH.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/ZRmOwFH.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/ns7x8If.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/yUvdkxu.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/SGnTlsS.png" height="80%" width="80%" alt=" Steps"/>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
