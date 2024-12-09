@@ -164,6 +164,34 @@ When the window pops open for Turn Windows features on or off.
 
 
 <h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+<p>
+ From your desktop open the file folder that was saved.
+</p>
+Extract and install PHP Manger.
+</p>
+
+ Rewrite AMD file
+</p>
+<p>
+ 
+</p>
+<img src="https://i.imgur.com/RJ4dkQ3.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/SuWaYMU.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/CGLgwDz.png" height="80%" width="80%" alt=" Steps"/>
+ <br/>
+ <p>
+
+  <h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+ </p>
+
+ Once these files are downloaded go into File Explorer and navigate to Windows -(c) and create a new folder and name it (PHP)
+<p>
+ Extract files from the zipped PHP file and move them to the newley created PHP folder in the C drive.
+</p>
+  Go back into the File folder for OS ticket and download Microsoft Visual C +
+ </p>
+ Once that is complete instal MYSQL.
+<p/>
 
 
 
@@ -172,35 +200,11 @@ When the window pops open for Turn Windows features on or off.
 
 
 
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/AsgY2cc.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/agePjuE.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/GORT89U.png"80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/Ft7otPN.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/UQfApeT.png" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
