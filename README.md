@@ -32,6 +32,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <h2>Installation Steps</h2>
+<p>
+  Setup a Virtual Machine in Azure
+</p>
+
 <br />
 
 To set up a Virtual Machine in Azure you will have to create a machine by pressing the create tab.
