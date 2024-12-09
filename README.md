@@ -157,26 +157,27 @@ When the window pops open for Turn Windows features on or off.
 
 <img src="https://i.imgur.com/DAsvV7c.png" height="80%" width="80%" alt=" Steps"/>
 <img src="https://i.imgur.com/OrmkRF3.png" height="80%" width="80%" alt=" Steps"/>
+
+<br/>
+
+
+
+
+<h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+
+
+
+
+
+
+
+
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
 <img src="" height="80%" width="80%" alt=" Steps"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
