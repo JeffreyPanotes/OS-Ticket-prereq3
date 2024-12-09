@@ -262,38 +262,53 @@ Register new PHP.
 
 
 
-
+<p>
+ 
+</p>
 <br/>
 
  
 <h2>Installation Step 3 -How to Install OS Ticket framework</h2>
 <br/>
 <p/>
+In the IIS manager navigate to the connections tab and select the Default web site.
+<p>
+ Now on the other tab on the right under manage folder select Browse *80 (HTTP).
+ <p>
+ If evrything is correct so for it should bring you to the OSTicket installer.
+ <p>
+  We will nave to initialize more extenstions as you can see some have errors.
+  <p>
+  Head back to the PHP manager and select PHP extensions.
+  </p>
+  Make sure the correct ones are enabled.
+  <p>
+   
+  </p>
+
+ </p>
+  
+ </p>
+</p>
+
+<img src="https://i.imgur.com/qIiVKGw.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/AmJ3Hen.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/2vz2Do9.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/wPI5kE3.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/JLtuTGk.png" height="80%" width="80%" alt=" Steps"/>
 
 
 
 
+<p>
+ 
+</p>
+<br/>
 
-
-
-
-
-
-
-
-
-
-
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-
-
-
-
-
+ 
+<h2>Installation Step 3 -How to Install OS Ticket framework</h2>
+<br/>
+<p/>
 
 
 
