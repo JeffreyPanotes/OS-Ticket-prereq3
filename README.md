@@ -57,9 +57,10 @@ Please note the system pre fill most tabs and on this lab you will not have to c
 Now review and create Virtual Machine and notice it states Deployment in progress.
                 <p>
 If all Allocations are correct you will have succesfully created a Virtual Machine on your resource page with a valid IP addresse.
-<p>
-
-
+ <br />
+<P>
+ 
+</P>
   
 <img src="https://i.imgur.com/fQ0LMOl.png" height="80%" width="80%" alt=" Steps"/> 
 <img src="https://i.imgur.com/Nk76zt5.png" height="80%" width="80%" alt=" Steps"/> 
@@ -74,10 +75,35 @@ If all Allocations are correct you will have succesfully created a Virtual Machi
 <img src="https://i.imgur.com/d2bOUvT.png" height="80%" width="80%" alt=" Steps"/> 
 <img src="https://i.imgur.com/Dz7njNQ.png" height="80%" width="80%" alt=" Steps"/> 
 <img src="https://i.imgur.com/KIOXPBJ.png" height="80%" width="80%" alt=" Steps"/> 
- </p>
-<p>
-<p>
-<P>
- <P>
+
+  <br />
+  <P><P>
+   
+  </P>
+   
+  </P>
   
 <h2>Installation Step 2 -How to Install the OS Ticket requirements</h2>
+
+<br />
+<p>
+
+ Open Remote Desk top and enter IP addresse from Virtual Machine and press enter.
+ <p>
+  Enter your credentials that you made prior and press enter.
+  </p>
+  You should be now logging in to the Virtual Machine on your Desk top.
+  <p>
+  Once on the Virtual Machine Desk top open internet explorer and navigate to Google and download all requried files. 
+   From this link [https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0]
+  </p>
+ 
+</p>
+
+<img src="https://i.imgur.com/5QHNzKD.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/PeMqNl3.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/VHiOCR6.png" height="80%" width="80%" alt=" Steps"/>
+<img src="https://i.imgur.com/q19BpWf.png" height="80%" width="80%" alt=" Steps"/>
+<img src=https://i.imgur.com/oTfuD6T.png"" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
+<img src="" height="80%" width="80%" alt=" Steps"/>
