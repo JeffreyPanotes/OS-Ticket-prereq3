@@ -31,12 +31,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - After Installation configuration of OS ticket
 
 
-<h2>Installation Steps</h2>
-<p>
-  Setup a Virtual Machine in Azure
-</p>
+<h2>Installation Step 1 -Setup a Virtual Machine in Azure</h2>
 
-<br />
+ 
+
+
+
 
 To set up a Virtual Machine in Azure you will have to create a machine by pressing the create tab.
 <p>
@@ -76,5 +76,13 @@ If all Allocations are correct you will have succesfully created a Virtual Machi
 <img src="https://i.imgur.com/KIOXPBJ.png" height="80%" width="80%" alt=" Steps"/> 
  
 
-</p>
-<p>
+
+
+
+
+
+
+
+
+
+<h2>Installation Step 2 -How to Install the OS Ticket requirements</h2>
