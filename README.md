@@ -275,7 +275,7 @@ In the IIS manager navigate to the connections tab and select the Default web si
 <p>
  Now on the other tab on the right under manage folder select Browse *80 (HTTP).
  <p>
- If evrything is correct so for it should bring you to the OSTicket installer.
+ If evrything is correct so far it should bring you to the OSTicket installer.
  <p>
   We will nave to initialize more extenstions as you can see some have errors.
   <p>
@@ -444,6 +444,13 @@ New data base will be osticket.
 <img src="https://i.imgur.com/pHGtY9z.png" height="80%" width="80%" alt=" Steps"/>
 
 
+<br/>
+<p>
+<p>
+<br/>
+<p>
+<p>
+Congradulations you have installed and configured OS Ticket and all pre requisites!!
 
 
 
@@ -462,12 +469,5 @@ New data base will be osticket.
 
 
 
-
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
-<img src="" height="80%" width="80%" alt=" Steps"/>
 
 
