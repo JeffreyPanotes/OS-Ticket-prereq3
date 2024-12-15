@@ -184,7 +184,7 @@ Extract and install PHP Manger.
   <h2>Installation Step 3 -How to Install OS Ticket framework</h2>
  </p>
 
- Once these files are downloaded go into File Explorer and navigate to Windows -(c) and create a new folder and name it (PHP).
+ Once these files are downloaded go into File Explorer and navigate to Windows C drive and create a new folder and name it (PHP).
 <p>
  Extract files from the zipped PHP file and move them to the newley created PHP folder in the C drive.
 </p>
@@ -275,7 +275,7 @@ In the IIS manager navigate to the connections tab and select the Default web si
 <p>
  Now on the other tab on the right under manage folder select Browse *80 (HTTP).
  <p>
- If evrything is correct so far it should bring you to the OSTicket installer.
+ If everything is correct so far it should bring you to the OSTicket installer.
  <p>
   We will nave to initialize more extenstions as you can see some have errors.
   <p>
